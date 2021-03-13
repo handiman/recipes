@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "image": "https://img.jamieoliver.com/jamieoliver/recipe-database/64975484.jpg?tr=w-450",
+  "name": "Gnarly peanut chicken",
+  "recipeCategory": "Lunch &amp; dinner recipes",
+  "recipeYield": "2",
+  "totalTime": "PT12M",
+  "recipeIngredient": [
+    "2 x 120 g  free-range skinless chicken breasts ",
+    "2  limes ",
+    "4 cloves of garlic ",
+    "2 heaped tablespoons peanut butter ",
+    "1-2  fresh red chillies "
+  ],
+  "recipeInstructions": "<ol class=\"recipeSteps\"><li>Turn the grill on to medium-high. </li><li>Score the chicken breasts in a criss-cross fashion, rub with 1 tablespoon of olive oil, a pinch of sea salt and black pepper and the finely grated zest of 1 lime. </li><li>Place criss-cross side down in a cold 26cm non-stick ovenproof frying pan and put it on a medium-high heat, while you peel and finely grate the garlic into a bowl. </li><li>Squeeze in the juice from 1½ limes, stir in the peanut butter and loosen with enough water to give you a spoonable consistency. </li><li>Finely slice the chilli, then mix (as much as you dare!) through the sauce, taste and season to perfection.</li><li>Flip the chicken over, spoon over the sauce, then transfer to the grill, roughly 10cm from the heat, for 5 minutes, or until gnarly and cooked through. </li><li>Finely grate over the remaining lime zest, then drizzle with 1 teaspoon of extra virgin olive oil. Serve with lime wedges, for squeezing over.</li></ol>",
+  "keywords": "chicken, poultry, chicken breast, lime, fruit, garlic, herb or flavour, peanut, nuts, grains pulses nuts, peanut butter, peanuts, chilli, vegetable, chillies, dairy-free, gluten-free, Quick &amp; Easy – Series 2, Chicken, Dinner for two, Student Recipes",
+  "recipeCuisine": [
+    "https://schema.org/LowLactoseDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ],
+  "author": "Jamie Oliver",
+  "nutrition": {
+    "calories": "405 calories",
+    "fatContent": "25 g fat",
+    "saturatedFatContent": "4.6 g saturated fat",
+    "proteinContent": "38.6 g protein",
+    "carbohydrateContent": "6 g carbohydrate",
+    "sugarContent": "1.8 g sugar",
+    "sodiumContent": "0.9 g salt",
+    "fiberContent": "1.8 g fibre",
+    "@type": "NutritionInformation"
+  },
+  "datePublished": "2017-11-03",
+  "url": "https://www.jamieoliver.com/recipes/chicken-recipes/gnarly-peanut-chicken/"
+}

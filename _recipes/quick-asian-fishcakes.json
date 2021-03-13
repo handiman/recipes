@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "image": "https://img.jamieoliver.com/jamieoliver/recipe-database/55846385.jpg?tr=w-450",
+  "name": "Quick Asian fishcakes",
+  "recipeCategory": "Healthy fish recipes",
+  "description": "Effortless cooking at its best, these easy fishcakes are packed with flavour. They’re beautifully rustic in style, and absolutely delicious. Serve as is, or with rice, noodles or in a pitta.",
+  "recipeYield": "4",
+  "totalTime": "PT22M",
+  "recipeIngredient": [
+    "1 stick of lemongrass ",
+    "6 cm piece of ginger ",
+    "½ a bunch of fresh coriander (15g) ",
+    "500 g salmon fillets skin off, pin-boned, from sustainable sources",
+    "4 teaspoons chilli jam "
+  ],
+  "recipeInstructions": "<ol class=\"recipeSteps\"><li>Whack the lemongrass against your work surface and remove the tough outer layer. </li><li>Peel the ginger, then very finely chop with the inside of the lemongrass and most of the coriander, stalks and all, reserving a few nice leaves in a bowl of cold water. </li><li>Chop the salmon into 1cm chunks over the mix on your board, then push half the salmon to one side. </li><li>Chop the rest until super-fine, almost like a purée, then mix the chunkier bits back through it and season with sea salt and black pepper. </li><li>Divide into 4, then shape and squash into 2cm-thick patties.</li><li>Place a large non-stick frying pan on a medium-high heat with 1 tablespoon of olive oil. </li><li>Cook the patties for 2 minutes on each side, or until nicely golden. </li><li>Spoon the chilli jam over the fishcakes, add a splash of water to the pan, turn the heat off, and jiggle to coat. </li><li>Serve sprinkled with the drained coriander.</li></ol>",
+  "keywords": "salmon, fish, coriander, herb or flavour, ginger, lemongrass, dairy-free, gluten-free, keep cooking and carry on, Quick &amp; Easy – Series 1, fish cake, Fish, chilli, Keep Cooking and Carry On, Student Recipes",
+  "recipeCuisine": [
+    "https://schema.org/LowLactoseDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ],
+  "author": "Jamie Oliver",
+  "nutrition": {
+    "calories": "277 calories",
+    "fatContent": "17.2 g fat",
+    "saturatedFatContent": "2.9 g saturated fat",
+    "proteinContent": "25.7 g protein",
+    "carbohydrateContent": "4.8 g carbohydrate",
+    "sugarContent": "3.8 g sugar",
+    "sodiumContent": "0.7 g salt",
+    "fiberContent": "0.1 g fibre",
+    "@type": "NutritionInformation"
+  },
+  "datePublished": "2017-09-04",
+  "url": "https://www.jamieoliver.com/recipes/salmon-recipes/quick-asian-fishcakes/"
+}
