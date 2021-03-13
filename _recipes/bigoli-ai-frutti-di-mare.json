@@ -2,7 +2,6 @@
   "@context": "http://schema.org",
   "@type": "Recipe",
   "name": "Bigoli ai Frutti di Mare",
-  "url": "http://www.prm.se/josp/Recept/bigoli.htm",
   "recipeIngredient": [
     "1 gul lök",
     "3 msk olivolja",
@@ -50,5 +49,7 @@
       "@type": "HowToStep",
       "text": "Kontrollera så att musslorna öppnat sig, kasta de musslor som inte har gjort det."
     }
-  ]
+  ],
+  "datePublished": "2003-04-03",
+  "url": "http://www.prm.se/josp/Recept/bigoli.htm"
 }

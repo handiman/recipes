@@ -33,3 +33,4 @@ title: Bigoli ai Frutti di Mare
 * Blanda nykot pasta och skaldjuren, förutom blåmusslorna, som läggs vackert runt tallriken.
 * Kontrollera så att musslorna öppnat sig, kasta de musslor som inte har gjort det.
 
+Recept från [http://www.prm.se/josp/Recept/bigoli.htm](http://www.prm.se/josp/Recept/bigoli.htm)
