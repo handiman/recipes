@@ -1,0 +1,26 @@
+html, body { 
+  font-family: 'Open Sans', sans-serif; 
+}
+
+th:first-child, td:first-child {
+  padding-right: 1rem;
+}
+
+table {
+  margin-bottom: 1rem;
+}
+
+a, a:active, a:link, a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 960px) {
+  article {
+    padding-top: 30px;
+    width: 760px !important;
+  }
+}
