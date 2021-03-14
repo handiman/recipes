@@ -1,0 +1,82 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "name": "Surf 'n' Turg Burgare",
+  "recipeYield": "4",
+  "totalTime": "PT60M",
+  "recipeIngredient": [
+    "600 g högrevsfärs eller nötfärs 12 %",
+    "1 tsk salt",
+    "1 tsk nymalen svartpeppar",
+    "ev 1-2 msk whisky",
+    "4 burgarbröd",
+    "4 salladsblad",
+    "<b>Picklad rödkål:</b>",
+    "200 g rödkål, grovstrimlad",
+    "1 1/2 dl vatten",
+    "1 dl socker",
+    "1/2 dl ättikssprit (12%)",
+    "<b>Räksallad:</b>",
+    "200 g skalade räkor",
+    "1/2 dl srirachamajonäs",
+    "1 vitlöksklyfta, finriven",
+    "<b>Baconlökringar & Sötpotatisklyftor:</b>",
+    "2 stora gula lökar",
+    "1 frp skivat bacon (ca 120g)",
+    "500 g sötpotatis",
+    "1 msk olivolja",
+    "1 tsk flingsalt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "<b>Picklad rödkål:</b>"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blanda vattnet med socker och ättika tills sockret smält. Vänd ner kålen i lagen och låt stå minst 20 min."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "<b>Räksallad:</b>"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blanda räkorna med srirachamajonäs och vitlök"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "<b>Lökringar:</b>"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sätt ugnen på 224 grader. Skär löken i tjocka skivor och plocka bort de små ringarna i mitten så bara de stora är kvar. Linda baconskivor runt ringarna och lägg på en plåt med bakplåtspapper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "<b>Sötpotatisklyftor:</b>"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Tvätta sötpotatisen och skär i stavar. Vänd runt i olja och fördela på plåten bredvid lökringarna. Rosta mitt i ugnen ca 20 min. Salta potatisen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": ""
+    },
+    {
+      "@type": "HowToStep",
+      "text": "<b>Burgare:</b>"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blanda färsen med salt, peppar och ev whisky. Forma till fyra burgare och grilla eller stek dem. Värm bröden på grillen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fyll bröden med sallad, kål, burgare, räksallad och ev rödlök. Servera med lökringar och sötpotatis. Dippa gärna i majo."
+    }
+  ],
+  "datePublished": "",
+  "url": ""
+}

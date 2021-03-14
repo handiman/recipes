@@ -6,6 +6,8 @@ collections:
  recipes:
   output: true
   permalink: /:name
+exclude:
+  - empty.json  
 
 defaults:
  - scope:
