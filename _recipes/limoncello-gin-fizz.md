@@ -3,7 +3,7 @@ title: Limoncello Gin Fizz
 ---
 # Limoncello Gin Fizz
 
-| Antal glas            | Total tid         |
+| Antal portioner       | Total tid         |
 | --------------------- | ----------------- |
 | 6                     | 15 minuter        |
 
