@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "image": "https://img.jamieoliver.com/jamieoliver/recipe-database/108100221.jpg?tr=w-450",
+  "name": "Sticky teriyaki aubergine",
+  "recipeCategory": "Vegetables Recipes",
+  "recipeYield": "2",
+  "totalTime": "PT20M",
+  "recipeIngredient": [
+    "1 large aubergine (400g)",
+    "4  spring onions ",
+    "1  fresh red or yellow chilli ",
+    "20 g unsalted peanuts ",
+    "2 tablespoons teriyaki sauce "
+  ],
+  "recipeInstructions": "<ol class=\"recipeSteps\"><li>Put a 26cm non-stick frying pan on a high heat and pour in 250ml of water. </li><li>Halve the aubergine lengthways, quickly slash the flesh side of each half a few times and place skin side up in the pan, then season with sea salt and black pepper. </li><li>Cover and cook for 10 minutes, or until it boils dry and begins to sizzle (listen for the change in sound). </li><li>Meanwhile, trim the spring onions. Cut the whites into 3cm lengths at an angle and put aside. </li><li>Deseed the chilli and finely slice lengthways with the green part of the spring onions. Place both in a bowl of ice-cold water and put aside to crisp up.</li><li>When the aubergine starts to sizzle, add 1 tablespoon of olive oil, the white spring onion and the peanuts to the pan, stirring regularly. </li><li>After 2 minutes, add a splash of water, drizzle in the teriyaki and reduce to a medium heat. </li><li>Turn the aubergine, jiggle the pan and let it get sticky for a few minutes, then dish up, sprinkled with the drained green spring onion and chilli.</li></ol>",
+  "keywords": "aubergine, vegetable, peanut, nuts, grains pulses nuts, chilli, dishes, chillies, spring onion, onion, dairy-free, vegan, vegetarian, Romantic meals, Dinner for two, Vegetables",
+  "recipeCuisine": [
+    "https://schema.org/LowLactoseDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "author": "Jamie Oliver",
+  "nutrition": {
+    "calories": "181 calories",
+    "fatContent": "12 g fat",
+    "saturatedFatContent": "2 g saturated fat",
+    "proteinContent": "5.2 g protein",
+    "carbohydrateContent": "13.3 g carbohydrate",
+    "sugarContent": "11.1 g sugar",
+    "sodiumContent": "1.4 g salt",
+    "fiberContent": "4 g fibre",
+    "@type": "NutritionInformation"
+  },
+  "datePublished": "2017-11-07",
+  "url": "https://www.jamieoliver.com/recipes/aubergine-recipes/sticky-teriyaki-aubergine/"
+}

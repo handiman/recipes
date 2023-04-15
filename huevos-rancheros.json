@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Huevos rancheros",
+  "image": "https://assets.icanet.se/q_auto,f_auto/imagevaultfiles/id_63804/cf_259/huevos_rancheros.jpg",
+  "url": "https://www.ica.se/recept/huevos-rancheros-2873/",
+  "description": "Hett mexikanskt recept till brunch eller som lättare lunch. Huevos rancheros är en het tomatröra med ingredienser som chili, paprika och lök. Den goda röran samt ägg passar perfekt till ett smaskigt tortillabröd.",
+  "datePublished": "1999-04-13",
+  "dateModified": "2014-05-23",
+  "author": {
+    "@type": "Organization",
+    "name": "ICA Köket"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 3,
+    "reviewCount": 5
+  },
+  "totalTime": "PT60M",
+  "cookingMethod": "",
+  "recipeCategory": "Frukost,Brunch,Mellanmål",
+  "recipeCuisine": "Mexikansk,Latinamerikansk",
+  "recipeYield": "3",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "3",
+    "calories": "",
+    "fatContent": "",
+    "carbohydrateContent": "",
+    "proteinContent": ""
+  },
+  "recipeIngredient": [
+    "1 chilifrukt t ex jalapeño eller hot-sås",
+    "1 gul lök",
+    "1 grön paprika",
+    "1 msk olja",
+    "1 burk krossade tomater (à 400 g)",
+    "1 citron",
+    "salt",
+    "vitpeppar",
+    "lite socker",
+    "1 -  1 1/2 tsk oregano",
+    "3 ägg",
+    "3 tortillabröd"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dela och k&amp;auml;rna ur chilifrukten. Hacka l&amp;ouml;ken, paprikan och chilifrukten fint. Fr&amp;auml;s detta i olja. Tills&amp;auml;tt tomatkrosset."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pressa saften ur citronen. R&amp;ouml;r ner den i r&amp;ouml;ran. Salta, peppra och sockra lite. Salt och s&amp;ouml;tt lyfter tomatsmaken. Smula ner oregano. Koka upp, s&amp;auml;nk v&amp;auml;rmen och l&amp;aring;t det sedan puttra i cirka 30 minuter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Kn&amp;auml;ck f&amp;ouml;rsiktigt ett &amp;auml;gg i en kaffekopp. S&amp;auml;nk med stadig hand ner &amp;auml;gget i tomatr&amp;ouml;ran. Det ska helst pocheras p&amp;aring; ytan. Upprepa med de andra &amp;auml;ggen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stek ett tortillabr&amp;ouml;d hastigt, placera det p&amp;aring; en tallrik. Lyft sedan upp ett &amp;auml;gg med en h&amp;aring;lslev och l&amp;auml;gg det p&amp;aring; tortillan. L&amp;auml;gg tomatr&amp;ouml;ran kring. Servera genast."
+    }
+  ],
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "http://schema.org/CommentAction",
+    "userInteractionCount": 3
+  },
+  "commentCount": 3
+}

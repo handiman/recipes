@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "image": "https://img.jamieoliver.com/jamieoliver/recipe-database/89081007.jpg?tr=w-450",
+  "name": "Peas, beans, chilli & mint",
+  "recipeCategory": "Sides",
+  "recipeYield": "2 to 4",
+  "totalTime": "PT10M",
+  "recipeIngredient": [
+    "½ a bunch of fresh mint (15g)",
+    "200 g fresh podded or frozen broad beans ",
+    "200 g fresh podded or frozen peas ",
+    "1  fresh red chilli ",
+    "1  lemon "
+  ],
+  "recipeInstructions": "<ol class=\"recipeSteps\"><li>Rip off and reserve the top leafy half of the mint. Put the stalks in a pan of boiling salted water, then add the beans and peas to cook for 4 minutes. </li><li>Meanwhile, halve and deseed the chilli and finely chop with the top leafy half of the mint. Place in a bowl, finely grate over a little lemon zest, then squeeze in all the juice. Add 2 tablespoons of extra virgin olive oil, mix, taste and season to perfection with sea salt and black pepper.</li><li>Drain the beans and peas, reserving a mugful of cooking water and discarding the mint stalks. </li><li>Pinch the skins off any larger beans, then pour the beans and peas on to a platter, toss with a few splashes of reserved cooking water, then spoon over the dressing. </li><li>Drizzle with 1 more tablespoon of extra virgin olive oil and toss together at the table before tucking in.</li></ol>",
+  "keywords": "pea, vegetable, bean, broad beans, frozen, cooking, chilli, dishes, mint, herb or flavour, fruit, lemon, dairy-free, gluten-free, vegan, vegetarian, Vegetable sides, sides and sauces, Vegetables, vegetables, peas, beans",
+  "recipeCuisine": [
+    "https://schema.org/LowLactoseDiet",
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "author": "Jamie Oliver",
+  "nutrition": {
+    "calories": "209 calories",
+    "fatContent": "20.4 g fat",
+    "saturatedFatContent": "3.2 g saturated fat",
+    "proteinContent": "13.1 g protein",
+    "carbohydrateContent": "19.5 g carbohydrate",
+    "sugarContent": "4.2 g sugar",
+    "sodiumContent": "0.5 g salt",
+    "fiberContent": "11.7 g fibre",
+    "@type": "NutritionInformation"
+  },
+  "datePublished": "2017-11-07",
+  "url": "https://www.jamieoliver.com/recipes/vegetable-recipes/peas-beans-chilli-mint/"
+}
