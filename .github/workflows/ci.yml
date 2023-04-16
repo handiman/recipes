@@ -15,7 +15,7 @@ jobs:
       - run: bundler install
       - run: bundle exec jekyll build
       - run: |
-          EOF=$(git diff ./README.md)
+          EOF=$(git diff ./README.md | base64)
           echo "result=<<$EOF" >> $GITHUB_OUTPUT
         id: diff
       - run: echo ${{ steps.diff.outputs.result }}
