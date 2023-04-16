@@ -17,7 +17,8 @@ jobs:
           gem install bundler
           bundler install
           bundle exec jekyll build
-          echo "readme-diff=$(git diff ./README.md)" >> $GITHUB_OUTPUT
+          diff=$(git diff ./README.md)
+          echo "readme-diff=<<diff" >> $GITHUB_OUTPUT
 
       - if: steps.build.output.readme-diff != ''
         uses: actions-x/commit@v6
