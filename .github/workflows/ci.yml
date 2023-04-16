@@ -22,7 +22,7 @@ jobs:
       - if: steps.build.output.readme-diff != ''
         uses: actions-x/commit@v6
         with:
-          message: [GHA] Update REAMDE.md
+          message: "[GHA] Update REAMDE.md"
           email: handiman@users.noreply.github.com
           files: README.md
 
