@@ -18,8 +18,7 @@ jobs:
         run: |
           bundle exec jekyll build
           diff=$(git diff ./README.md)
-          echo diff
-          echo "readme-diff=<<diff" >> $GITHUB_OUTPUT
+          echo "readme-diff=<<$diff" >> $GITHUB_OUTPUT
 
       - if: steps.build.output.readme-diff != ''
         uses: actions-x/commit@v6
