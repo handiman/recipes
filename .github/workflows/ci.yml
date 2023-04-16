@@ -16,8 +16,9 @@ jobs:
       - run: bundle exec jekyll build
       - run: echo "exit-code=$(git diff --quiet --exit-code ./README.md)" >> $GITHUB_OUTPUT
         id: diff
-      - run: echo "It's '{{ steps.diff.outputs.exit-code }}'"
-      - if: steps.diff.outputs.exit-code == '1'
+      - run: echo "It's '${{ steps.diff.outputs.exit-code }}'"
+      - if: ${{ false }}
+        #if: steps.diff.outputs.exit-code == '1'
         uses: actions-x/commit@v6
         with:
           message: "[GHA] Update REAMDE.md"
