@@ -14,9 +14,13 @@ jobs:
       - run: gem install bundler
       - run: bundler install
       - run: bundle exec jekyll build
-      - run: echo "result=$(git diff ./README.md | base64)" >> $GITHUB_OUTPUT
+      - run: |
+          DIFF=$(git diff ./README.md | base64)
+          echo "DIFF<<EOF" >> $GITHUB_ENV
+          echo $DIFF >> $GITHUB_ENV 
+          echo "EOF" >> $GITHUB_ENV 
         id: diff
-      - run: echo ${{ steps.diff.outputs.result }}
+      - run: echo ${{ env.DIFF }}
       - if: ${{ false }}
         #if: steps.diff.outputs.result == '1'
         uses: actions-x/commit@v6
