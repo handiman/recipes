@@ -14,7 +14,7 @@ jobs:
       - run: gem install bundler
       - run: bundler install
       - run: bundle exec jekyll build
-      - run: echo "result=<<$(git diff ./README.md | base64)" >> $GITHUB_OUTPUT
+      - run: echo "result=$(git diff ./README.md | base64)" >> $GITHUB_OUTPUT
         id: diff
       - run: echo ${{ steps.diff.outputs.result }}
       - if: ${{ false }}
