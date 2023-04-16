@@ -15,22 +15,20 @@ jobs:
       - run: bundler install
       - run: bundle exec jekyll build
       - run: |
-          DIFF=$(git diff ./README.md | base64)
+          DIFF=$(git diff ./README.md)
           echo "DIFF<<EOF" >> $GITHUB_ENV
           echo $DIFF >> $GITHUB_ENV 
           echo "EOF" >> $GITHUB_ENV 
         id: diff
       - run: echo ${{ env.DIFF }}
-      - if: ${{ false }}
-        #if: steps.diff.outputs.result == '1'
+      - if: env.DIFF != ''
         uses: actions-x/commit@v6
         with:
           message: "[GHA] Update REAMDE.md"
           email: handiman@users.noreply.github.com
           files: README.md
 
-      - if: ${{ false }}
-        #if: steps.diff.outputs.result == ''
+      - if: env.DIFF == ''
         uses: s0/git-publish-subdir-action@develop
         env:
           REPO: self
