@@ -22,7 +22,7 @@ jobs:
       #  id: diff
       #- run: echo ${{ env.DIFF }}
       #- if: env.DIFF != ''
-      -  uses: actions-x/commit@v6
+      - uses: actions-x/commit@v6
         with:
           message: "[GHA] Updated recipes"
           email: handiman@users.noreply.github.com
