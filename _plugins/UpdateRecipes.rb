@@ -2,10 +2,6 @@ require "json"
 
 module Jekyll
   Hooks.register :site, :pre_render do |site|
-    if Gem.win_platform?
-      return
-    end
-
     File.open("README.md", "w+") do |readme|
       readme.puts "# Food Driven Development\n"
       readme.close()
