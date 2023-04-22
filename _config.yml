@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 collections:
  recipes:
   output: true
-  permalink: /:path/index.html
+  permalink: /:path
 
 defaults:
  - scope:
