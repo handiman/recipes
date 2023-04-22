@@ -5,9 +5,7 @@ excerpt_separator: <!--more-->
 collections:
  recipes:
   output: true
-  permalink: /:name
-exclude:
-  - empty.json  
+  permalink: /:path/index.html
 
 defaults:
  - scope:
