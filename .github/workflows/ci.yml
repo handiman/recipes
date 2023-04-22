@@ -32,4 +32,5 @@ jobs:
         with:
           message: "[GHA] Updated recipes"
           email: handiman@users.noreply.github.com
+          files: . 
 
