@@ -2,7 +2,7 @@ require "json"
 
 module Jekyll
   Hooks.register :site, :pre_render do |site|
-    if not(Gem.win_platform?)
+    if Gem.win_platform?
       return
     end
 
