@@ -27,12 +27,11 @@ jobs:
           message: "[GHA] Updated recipes"
           email: handiman@users.noreply.github.com
           files: . 
-      - uses: actions-x/commit@v6
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          message: "[GHA] Publish gh-pages"
-          email: handiman@users.noreply.github.com
-          branch: gh-pages
-          files: ./_site/** 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./_site
       #- uses: s0/git-publish-subdir-action@develop
       #  env:
       #    REPO: self
