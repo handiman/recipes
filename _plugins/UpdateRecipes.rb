@@ -9,7 +9,8 @@ module Jekyll
 
     Dir.glob("./_recipes/*.json") do |jsonfilename|
       begin
-        File.open("./_recipes/#{File.basename(jsonfilename, ".json")}.md", "w") do |markdown|
+        filebasename = File.basename(jsonfilename, ".json")
+        File.open("./_recipes/#{filebasename}.md", "w") do |markdown|
           json = JSON.parse(File.read(jsonfilename))
           @step = ""
           markdown.puts "---"
