@@ -24,4 +24,5 @@
 * [Black rice pudding](./_recipes/black-rice-pudding.md)
 * [Chicken noodle stir-fry](./_recipes/chicken-noodle-stir-fry.md)
 * [Chicken, sausage & prawn jambalaya](./_recipes/chicken-sausage-prawn-jambalaya.md)
+* [Fillet of beef](./_recipes/fillet-of-beef-wrapped-in-porcini-and-prosciutto.md)
 * [Porchetta på lamm med örtsky](./_recipes/porchetta-pa-lamm-med-ortsky.md)
