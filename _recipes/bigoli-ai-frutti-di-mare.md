@@ -18,8 +18,8 @@ title: Bigoli ai Frutti di Mare
 * 1 1/2 dl vitt vin
 
 # Tillagning
-Skala och hacka löken och frös den i lite olja.
-Tilsätt tomaterna, krydda med lite salt och vitpeppar och låt allt koka kraftigt en stund.
+Skala och hacka löken och fräs den i lite olja.
+Tillsätt tomaterna, krydda med lite salt och vitpeppar och låt allt koka kraftigt en stund.
 Koka pastan i rikligt med saltat vatten.
 Fräs alla skaldjuren hastigt i olivolja, så att de inte blir sega.
 Tillsätt hackad vitlök, pepperoni, vitt vin och tomatsås
